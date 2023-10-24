@@ -8,7 +8,7 @@ let photosArray = [];
 
 const count = 15; 
 // Normally, don't store API Keys like this, but an exception made here because it is free, and the data is publicly available!
-const apiKey = 'Nup6qju965HYD9BJ3HobhOF5AKSj4tFX12rOG7UDweY'; 
+const apiKey = 'OOXYW7OAgUniZqBO4bDIAPiTUX-Rg7SRxqlBBUI4kzs'; 
 const apiUrl = `https://api.unsplash.com/photos/random?client_id=${apiKey}&count=${count}`; 
 
 
